@@ -1,4 +1,4 @@
 {
-  stts: true,
-  teks: hello world
+    "stts": true,
+    "teks": "hello world"
 }
